@@ -1,10 +1,6 @@
 const quizData = [
    
-    {
-      question: "Which company developed the first commercial antivirus software?",
-      options: ["Symantec", "McAfee", "Norton", "Kaspersky Lab"],
-      answer: "McAfee"
-    },
+  
     {
       question: "Which animal is featured in the official PHP logo?",
       options: ["Elephant", "Hippo", "Giraffe", "Lion"],
